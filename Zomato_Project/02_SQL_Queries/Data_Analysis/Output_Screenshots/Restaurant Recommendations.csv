@@ -1,0 +1,11 @@
+RestaurantName,City,Average_Cost_for_two,Rating,Votes,Has_Table_booking,Has_Online_delivery
+Caterspoint,Gurgaon,500,4.9,223,No,Yes
+CakeBee,Coimbatore,350,4.9,200,No,Yes
+Truffles,Bangalore,800,4.7,9667,No,Yes
+"Tapri Central",Jaipur,750,4.7,1469,No,Yes
+"Coffee Cup",Secunderabad,800,4.6,1408,Yes,No
+"India Restaurant",Kolkata,800,4.6,1219,Yes,Yes
+"Spezia Bistro","New Delhi",900,4.6,1071,Yes,Yes
+Twigly,Gurgaon,500,4.6,395,No,Yes
+"Joey's Pizza",Mumbai,800,4.5,2662,No,Yes
+Burgrill,Chandigarh,500,4.5,249,No,Yes

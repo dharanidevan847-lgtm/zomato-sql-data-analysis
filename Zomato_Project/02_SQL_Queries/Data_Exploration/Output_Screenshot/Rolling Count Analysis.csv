@@ -1,0 +1,142 @@
+City,restaurants,rolling_count
+"Abu Dhabi",20,20
+Agra,20,40
+Ahmedabad,21,61
+Albany,20,81
+Allahabad,20,101
+Amritsar,21,122
+Ankara,20,142
+Armidale,1,143
+Athens,20,163
+Auckland,20,183
+Augusta,20,203
+Aurangabad,20,223
+Balingup,1,224
+Bandung,1,225
+Bangalore,20,245
+Beechworth,1,246
+Bhopal,20,266
+Bhubaneshwar,21,287
+Birmingham,20,307
+Bogor,2,309
+Boise,20,329
+Brasília,20,349
+"Cape Town",20,369
+"Cedar Rapids/Iowa City",20,389
+Chandigarh,18,407
+Chatham-Kent,1,408
+Chennai,20,428
+Clatskanie,1,429
+Cochrane,1,430
+Coimbatore,20,450
+Colombo,20,470
+Columbus,20,490
+Consort,1,491
+Dalton,20,511
+Davenport,20,531
+Dehradun,20,551
+"Des Moines",20,571
+"Dicky Beach",1,572
+Doha,20,592
+Dubai,20,612
+Dubuque,20,632
+"East Ballina",1,633
+Edinburgh,20,653
+Faridabad,251,904
+Fernley,1,905
+Flaxton,1,906
+Forrest,1,907
+Gainesville,20,927
+Ghaziabad,25,952
+Goa,20,972
+Gurgaon,1118,2090
+Guwahati,21,2111
+"Hepburn Springs",2,2113
+Huskisson,1,2114
+Hyderabad,18,2132
+Indore,20,2152
+"Inner City",2,2154
+Inverloch,1,2155
+İstanbul,14,2169
+Jaipur,20,2189
+Jakarta,16,2205
+Johannesburg,6,2211
+Kanpur,20,2231
+Kochi,20,2251
+Kolkata,20,2271
+"Lakes Entrance",1,2272
+Lakeview,1,2273
+Lincoln,1,2274
+London,20,2294
+Lorn,1,2295
+Lucknow,21,2316
+Ludhiana,20,2336
+Macedon,1,2337
+Macon,20,2357
+"Makati City",2,2359
+Manchester,20,2379
+"Mandaluyong City",4,2383
+Mangalore,20,2403
+Mayfield,1,2404
+"Mc Millan",1,2405
+"Middleton Beach",1,2406
+Miller,1,2407
+Mohali,1,2408
+Monroe,1,2409
+Montville,1,2410
+Mumbai,20,2430
+Mysore,20,2450
+Nagpur,20,2470
+Nashik,20,2490
+"New Delhi",5473,7963
+Noida,1080,9043
+"Ojo Caliente",1,9044
+Orlando,20,9064
+"Palm Cove",1,9065
+Panchkula,1,9066
+"Pasay City",3,9069
+"Pasig City",3,9072
+Patna,20,9092
+Paynesville,1,9093
+Penola,1,9094
+Pensacola,20,9114
+"Phillip Island",1,9115
+Pocatello,20,9135
+Potrero,1,9136
+Pretoria,20,9156
+Princeton,1,9157
+Puducherry,20,9177
+Pune,20,9197
+"Quezon City",1,9198
+Ranchi,20,9218
+Randburg,1,9219
+"Rest of Hawaii",20,9239
+"Rio de Janeiro",20,9259
+"San Juan City",2,9261
+Sandton,11,9272
+"Santa Rosa",2,9274
+"São Paulo",20,9294
+Savannah,20,9314
+Secunderabad,2,9316
+Sharjah,20,9336
+Singapore,20,9356
+"Sioux City",20,9376
+Surat,20,9396
+"Tagaytay City",1,9397
+"Taguig City",4,9401
+"Tampa Bay",20,9421
+Tangerang,2,9423
+Tanunda,1,9424
+"Trentham East",1,9425
+Vadodara,20,9445
+Valdosta,20,9465
+Varanasi,20,9485
+Vernonia,1,9486
+"Victor Harbor",1,9487
+"Vineland Station",1,9488
+Vizag,20,9508
+Waterloo,20,9528
+Weirton,1,9529
+"Wellington City",20,9549
+"Winchester Bay",1,9550
+Yorkton,1,9551

@@ -1,0 +1,11 @@
+RestaurantID,RestaurantName,CountryCode,City,Locality,Cuisines,Currency,Has_Table_booking,Has_Online_delivery,Price_range,Votes,Average_Cost_for_two,Rating,country_name,rating_category
+6317637,"Le Petit Souffle",162,"Makati City","Century City Mall| Poblacion| Makati City","French| Japanese| Desserts","Botswana Pula(P)",Yes,No,3,314,1100,4.8,Philippines,excellent
+6304287,"Izakaya Kikufuji",162,"Makati City","Little Tokyo| Legaspi Village| Makati City",Japanese,"Botswana Pula(P)",Yes,No,3,591,1200,4.5,Philippines,excellent
+6300002,"Heat - Edsa Shangri-La",162,"Mandaluyong City","Edsa Shangri-La| Ortigas| Mandaluyong City","Seafood| Asian| Filipino| Indian","Botswana Pula(P)",Yes,No,4,270,4000,4.4,Philippines,"very good"
+6318506,Ooma,162,"Mandaluyong City","SM Megamall| Ortigas| Mandaluyong City","Japanese| Sushi","Botswana Pula(P)",No,No,4,365,1500,4.9,Philippines,excellent
+6314302,"Sambo Kojin",162,"Mandaluyong City","SM Megamall| Ortigas| Mandaluyong City","Japanese| Korean","Botswana Pula(P)",Yes,No,4,229,1500,4.8,Philippines,excellent
+18189371,"Din Tai Fung",162,"Mandaluyong City","SM Megamall| Ortigas| Mandaluyong City",Chinese,"Botswana Pula(P)",No,No,3,336,1000,4.4,Philippines,"very good"
+6300781,"Buffet 101",162,"Pasay City","SM by the Bay| Mall of Asia Complex| Pasay City","Asian| European","Botswana Pula(P)",Yes,No,4,520,2000,4,Philippines,"very good"
+6301290,Vikings,162,"Pasay City","SM by the Bay| Mall of Asia Complex| Pasay City","Seafood| Filipino| Asian| European","Botswana Pula(P)",Yes,No,4,677,2000,4.2,Philippines,"very good"
+6300010,"Spiral - Sofitel Philippine Plaza Manila",162,"Pasay City","Sofitel Philippine Plaza Manila| Pasay City","European| Asian| Indian","Botswana Pula(P)",Yes,No,4,621,6000,4.9,Philippines,excellent
+6314987,Locavore,162,"Pasig City",Kapitolyo,Filipino,"Botswana Pula(P)",Yes,No,3,532,1100,4.8,Philippines,excellent
